@@ -1,1 +1,1 @@
-# Etch-a-sketch
+My Etch-a-sketch HTML/CSS/JavaScript Project
