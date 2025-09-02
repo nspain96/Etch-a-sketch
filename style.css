@@ -6,5 +6,5 @@
 .square {
     border: 1px solid black;
     width: calc(100% / 17);
-    height: 50px; 
+    height: 35px; 
 }
