@@ -29,4 +29,26 @@ function squares(num){
 
 squares(256);
 
+const btn = document.querySelector('button');
+
+btn.addEventListener('click',function(){
+    myInt = Number(prompt());
+
+    if(myInt <= 100 && myInt >= 1){
+
+    console.log('success');
+
+    } else{
+        console.log('Please enter a integer between 1 - 100');
+    }});
+
+  
+    
+
+
+
+
+
+
+
      
