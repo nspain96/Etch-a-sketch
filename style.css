@@ -8,3 +8,7 @@
     width: calc(100% / 17);
     height: 35px; 
 }
+
+button{
+    margin-bottom: 20px;
+}
